@@ -74,6 +74,6 @@ public class Phonebook {
             }
         } catch (IOException e) {
             System.out.println("Error loading from file: " + e.getMessage());
-        }
-    }
+        }
+    }
 }
